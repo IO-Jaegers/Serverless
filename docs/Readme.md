@@ -1,4 +1,4 @@
 # Documentation
 
 ## Content
-1. [License](LICENSE.md)
+1. [License](License.md)
