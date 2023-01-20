@@ -19,6 +19,7 @@
     "minimum-stability": "dev",
     "require":
     {
-
+        "io-jaegers/utilities": "dev-main",
+        "io-jaegers/security": "dev-main"
     }
 }
