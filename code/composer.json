@@ -2,17 +2,23 @@
     "name": "io-jaegers/serverless",
     "type": "project",
     "license": "MIT License",
-    "autoload": {
-        "psr-4": {
+    "autoload":
+    {
+        "psr-4":
+        {
             "IoJaegers\\Serverless\\": "src/"
         }
     },
-    "authors": [
+    "authors":
+    [
         {
             "name": "Kent vejrup Madsen",
             "email": "kent.vejrup.madsen@designermadsen.dk"
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require":
+    {
+
+    }
 }
