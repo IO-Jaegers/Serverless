@@ -4,7 +4,7 @@
     // https://www.w3schools.com/php/func_network_gethostbyaddr.asp
 	// https://www.w3schools.com/php/func_network_gethostbyname.asp
 	// https://www.w3schools.com/php/func_network_gethostbynamel.asp
-	namespace IoJaegers\Serverless;
+	namespace IoJaegers\Serverless\internet;
 
 	class IPAddress
 	{

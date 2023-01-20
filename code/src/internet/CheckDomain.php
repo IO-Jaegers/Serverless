@@ -1,7 +1,7 @@
 <?php
-	namespace IoJaegers\Serverless;
+	namespace IoJaegers\Serverless\internet;
 
-	class FindRecord
+	class CheckDomain
 	{
 		public function __construct()
 		{

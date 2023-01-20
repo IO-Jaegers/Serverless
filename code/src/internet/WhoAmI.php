@@ -1,5 +1,5 @@
 <?php
-	namespace IoJaegers\Serverless;
+	namespace IoJaegers\Serverless\internet;
 
 	class WhoAmI
 	{

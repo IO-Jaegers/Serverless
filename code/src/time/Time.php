@@ -1,7 +1,7 @@
 <?php
-	namespace IoJaegers\Serverless;
+	namespace IoJaegers\Serverless\time;
 
-	class CheckDomain
+	class Time
 	{
 		public function __construct()
 		{
