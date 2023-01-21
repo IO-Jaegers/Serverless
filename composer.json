@@ -6,7 +6,8 @@
     {
         "psr-4":
         {
-            "IoJaegers\\Serverless\\": "src/"
+            "IoJaegers\\": "code",
+            "IoJaegers\\Serverless\\": "code/php"
         }
     },
     "authors":
@@ -19,6 +20,7 @@
     "minimum-stability": "dev",
     "require":
     {
-
+        "io-jaegers/utilities": "dev-main",
+        "io-jaegers/security": "dev-main"
     }
 }
