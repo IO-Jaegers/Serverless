@@ -6,7 +6,8 @@
     {
         "psr-4":
         {
-            "IoJaegers\\Serverless\\": "src/"
+            "IoJaegers\\": "code",
+            "IoJaegers\\Serverless\\": "code/src"
         }
     },
     "authors":
