@@ -7,7 +7,7 @@
         "psr-4":
         {
             "IoJaegers\\": "code",
-            "IoJaegers\\Serverless\\": "code/src"
+            "IoJaegers\\Serverless\\": "code/php"
         }
     },
     "authors":
