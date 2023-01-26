@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e22d57da168acf670c48df1d33e78e58",
+    "content-hash": "8d21d5d27457315093c2771b410da1a6",
     "packages": [
         {
             "name": "io-jaegers/security",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/IO-Jaegers/Security.git",
-                "reference": "5e87380e8fc8afd48915330b090e98a847c2843e"
+                "reference": "96551b13a60aac5012c796d665a8449a4d4ece72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/IO-Jaegers/Security/zipball/5e87380e8fc8afd48915330b090e98a847c2843e",
-                "reference": "5e87380e8fc8afd48915330b090e98a847c2843e",
+                "url": "https://api.github.com/repos/IO-Jaegers/Security/zipball/96551b13a60aac5012c796d665a8449a4d4ece72",
+                "reference": "96551b13a60aac5012c796d665a8449a4d4ece72",
                 "shasum": ""
             },
             "default-branch": true,
@@ -40,9 +40,9 @@
             "description": "Security tools for php.",
             "support": {
                 "issues": "https://github.com/IO-Jaegers/Security/issues",
-                "source": "https://github.com/IO-Jaegers/Security/tree/development"
+                "source": "https://github.com/IO-Jaegers/Security/tree/main"
             },
-            "time": "2023-01-20T13:34:35+00:00"
+            "time": "2023-01-23T08:10:51+00:00"
         },
         {
             "name": "io-jaegers/utilities",
@@ -50,12 +50,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/IO-Jaegers/Utilities.git",
-                "reference": "610eef411ad0a9c96e562afa14ce409673f270c8"
+                "reference": "c8e2b414be20166a952b065cf990b90209f10705"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/IO-Jaegers/Utilities/zipball/610eef411ad0a9c96e562afa14ce409673f270c8",
-                "reference": "610eef411ad0a9c96e562afa14ce409673f270c8",
+                "url": "https://api.github.com/repos/IO-Jaegers/Utilities/zipball/c8e2b414be20166a952b065cf990b90209f10705",
+                "reference": "c8e2b414be20166a952b065cf990b90209f10705",
                 "shasum": ""
             },
             "require": {
@@ -89,7 +89,7 @@
                 "issues": "https://github.com/IO-Jaegers/Utilities/issues",
                 "source": "https://github.com/IO-Jaegers/Utilities/tree/main"
             },
-            "time": "2023-01-18T06:38:00+00:00"
+            "time": "2023-01-24T14:42:22+00:00"
         }
     ],
     "packages-dev": [],
@@ -101,7 +101,9 @@
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": ">=8.1"
+    },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
 }
