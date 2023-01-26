@@ -2,6 +2,7 @@
     "name": "io-jaegers/serverless",
     "type": "project",
     "license": "MIT",
+
     "autoload":
     {
         "psr-4":
@@ -10,6 +11,7 @@
             "IoJaegers\\Serverless\\": "code/php"
         }
     },
+
     "authors":
     [
         {
@@ -17,9 +19,12 @@
             "email": "kent.vejrup.madsen@designermadsen.dk"
         }
     ],
+
     "minimum-stability": "dev",
     "require":
     {
+        "php": ">=8.1",
+
         "io-jaegers/utilities": "dev-main",
         "io-jaegers/security": "dev-main"
     }
